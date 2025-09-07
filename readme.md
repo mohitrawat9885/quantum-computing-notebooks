@@ -37,6 +37,18 @@ git clone https://github.com/mohitrawat9885/quantum-computing-notebooks.git
 cd quantum-computing-notebooks
 ```
 
+Install dependencies:
+```bash
+pip install qiskit matplotlib
+```
+
+Run notebooks:
+```bash
+jupyter notebook
+```
+
+
+
 ## 👤 Author
 
 **Mohit Rawat**  
