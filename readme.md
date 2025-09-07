@@ -35,7 +35,7 @@ Clone the repo:
 ```bash
 git clone https://github.com/mohitrawat9885/quantum-computing-notebooks.git
 cd quantum-computing-notebooks
-
+```
 
 ## 👤 Author
 
