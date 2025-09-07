@@ -7,24 +7,28 @@ This repository serves as both my learning journey and a portfolio of quantum ex
 
 ## 📘 Contents
 
-### 1. Superposition
-📂 `Superposition.ipynb`  
-Demonstrates how a single qubit can exist in a **superposition of |0⟩ and |1⟩** using the Hadamard gate.  
-Includes Bloch sphere visualization and measurement results.
+### 1. Basic Quantum Gates
+📂 `BasicQuantumGates.ipynb`  
+Introduces fundamental quantum gates (X, Y, Z, Hadamard, etc.) and their effects on qubits.  
+Includes circuit examples and visualizations.
 
-### 2. Bell States & Entanglement
+### 2. Bell State & Entanglement
 📂 `BellStates_Entanglement.ipynb`  
 Builds all four **Bell states (Φ⁺, Φ⁻, Ψ⁺, Ψ⁻)** using Qiskit.  
 Explains how entanglement works, shows measurement correlations, and visualizes results with histograms.
 
-### 3. Grover’s Algorithm *(coming soon 🚧)*
-📂 `GroversAlgorithm.ipynb`  
-Implementation of Grover’s search algorithm for unstructured databases.  
-Shows how quantum computers can speed up search problems compared to classical ones.
+### 3. Bernstein Vazirani Algorithm
+📂 `BernsteinVazirani.ipynb`  
+Implements the Bernstein-Vazirani algorithm to efficiently determine a hidden bit string using quantum parallelism.
 
-### 4. Quantum Teleportation *(coming soon 🚧)*
-📂 `QuantumTeleportation.ipynb`  
-Demonstrates the **quantum teleportation protocol** — transferring a qubit’s state from one location to another using entanglement and classical communication.
+### 4. Deutsch Jozsa Algorithm (1 Qubit)
+📂 `DeutschJozsa_1Qubit.ipynb`  
+Demonstrates the Deutsch-Jozsa algorithm for a single qubit case, distinguishing between constant and balanced functions.
+
+### 5. Deutsch Jozsa Algorithm (multi Qubits)
+📂 `DeutschJozsa_MultiQubits.ipynb`  
+Extends the Deutsch-Jozsa algorithm to multiple qubits, showing exponential speedup over classical approaches.
+
 
 ---
 
