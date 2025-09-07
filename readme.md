@@ -53,5 +53,5 @@ jupyter notebook
 
 **Mohit Rawat**  
 💼 Software Engineer | Aspiring Quantum Computing Researcher  
-🌐 [LinkedIn](https://www.linkedin.com/in/mohitrawat9885)  
+🌐 [LinkedIn](https://www.linkedin.com/in/astro-mohitrawat/)  
 🧑‍💻 Exploring the intersection of **Quantum Computing, AI, and Physics**
